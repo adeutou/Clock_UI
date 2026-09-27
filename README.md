@@ -1,5 +1,5 @@
 # Clock_UI
-Responsive Clock UI design using HTML, CSS, JAVASCRIPT and also includes a light and dark theme.
+Responsive Clock UI design using HTML, CSS, JAVASCRIPT and also includes a light and dark theme. You can get a look here https://clock-ui.web.app/
 
 ![screencapture-file-D-freedev-Clock-UI-index-html-2021-07-22-04_49_26](https://user-images.githubusercontent.com/37555228/126584161-e164ced4-5622-4467-ad42-a245968bd3bd.png)
 
